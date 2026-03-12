@@ -1,0 +1,21 @@
+{
+  "OPC-DATA.Fecha": "ns=4;i=52",
+  "OPC-DATA.Producto": "ns=4;i=53",
+  "OPC-DATA.tipo": "ns=4;i=54",
+  "OPC-DATA.CicloReal": "ns=4;i=55",
+  "OPC-DATA.PiezasTotales": "ns=4;i=56",
+  "OPC-DATA.PiezasGood": "ns=4;i=57",
+  "OPC-DATA.PiezasBad": "ns=4;i=58",
+  "OPC-DATA.A": "ns=4;i=59",
+  "OPC-DATA.P": "ns=4;i=60",
+  "OPC-DATA.Q": "ns=4;i=61",
+  "OPC-DATA.OEE": "ns=4;i=62",
+  "OPC-DATA.FPY": "ns=4;i=63",
+  "OPC-DATA.Tyeld": "ns=4;i=64",
+  "OPC-DATA.T_Producido": "ns=4;i=65",
+  "OPC-DATA.T_Parado_Fallas": "ns=4;i=66",
+  "OPC-DATA.T_Parado_mat": "ns=4;i=67",
+  "OPC-DATA.T_Disponible": "ns=4;i=68",
+  "OPC-DATA.Estado": "ns=4;i=69",
+  "OPC-DATA.turno": "ns=4;i=70"
+}
